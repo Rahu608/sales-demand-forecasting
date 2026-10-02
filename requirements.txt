@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+statsmodels
+plotly
+streamlit
+psycopg2-binary
+openpyxl
+joblib
